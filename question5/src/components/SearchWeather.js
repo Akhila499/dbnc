@@ -10,7 +10,7 @@ const SearchWeather = () => {
   };
   const onSubmit = (event) => {
     event.preventDefault();
-    console.log("Clicked on Submit button", search);
+    console.log("Clicked on Submit butjhhjhghgton", search);
     getWeatherUsingId(search);
   };
   return (
